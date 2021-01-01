@@ -1,0 +1,33 @@
+server:
+  port: 8080
+
+
+spring:
+  datasource:
+    username: root
+    password: sxzt888888
+    url: jdbc:mysql://47.107.227.121:3306/camequmansys?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
+
+
+
+mybatis:
+  mapper-locations: classpath:mapping/mapper/*.xml
+  type-aliases-package: com.camequmansys.camequmansys.domain
+  config-location: classpath:mapping/mybatis-config.xml
+
+#showSql
+logging:
+  level:
+    com:
+      example:
+        mapper: debug
