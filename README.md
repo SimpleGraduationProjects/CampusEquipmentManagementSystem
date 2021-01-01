@@ -1,0 +1,2 @@
+# CampusEquipmentManagementSystem
+高校校园设备管理系统-毕业设计
