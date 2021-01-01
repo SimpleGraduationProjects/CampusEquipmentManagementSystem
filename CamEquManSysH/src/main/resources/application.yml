@@ -5,8 +5,8 @@ server:
 spring:
   datasource:
     username: root
-    password: sxzt888888
-    url: jdbc:mysql://47.107.227.121:3306/camequmansys?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT
+    password: 123456
+    url: jdbc:mysql://localhost:3306/camequmansys?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT
     driver-class-name: com.mysql.cj.jdbc.Driver
 
 
