@@ -1,7 +1,5 @@
 # CampusEquipmentManagementSystem
 
-# CompanyInternalManagementSystem
-
 <p>群: 123300273(大佬群 2TB学习资料)(获取sql文件,入费群5元)</p>
 <p>QQ: 1095737364</p>
 <p>
@@ -32,8 +30,6 @@
 
 - <b>JDK 1.8</b>
 
-
-
 ## 缩略图
 
 ![](https://img2020.cnblogs.com/blog/588112/202101/588112-20210101143517385-2049753115.png)
@@ -45,8 +41,11 @@
 ![](https://img2020.cnblogs.com/blog/588112/202101/588112-20210101143553775-1694720958.png)
 
 ![](https://img2020.cnblogs.com/blog/588112/202101/588112-20210101143602408-1148289001.png)
+
 ![](https://img2020.cnblogs.com/blog/588112/202101/588112-20210101143610226-696424806.png)
+
 ![](https://img2020.cnblogs.com/blog/588112/202101/588112-20210101143619447-269148904.png)
+
 ![](https://img2020.cnblogs.com/blog/588112/202101/588112-20210101143627392-1262889195.png)
 
 
